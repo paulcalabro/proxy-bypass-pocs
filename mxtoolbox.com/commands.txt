@@ -1,0 +1,6 @@
+whoami;
+hostname;
+netstat -ltnp;
+cat /etc/hosts;
+cat /etc/resolv.conf;
+cat /etc/passwd;
