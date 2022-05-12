@@ -5,7 +5,7 @@ the server succeeds. Traffic is then routed to the name-based virtual host, bypa
 
 # Domains
 
-- https://accounts.googel.com (Blocked)
+- https://accounts.google.com (Blocked)
 - https://www.google.com (Allowed)
 - https://www.googleapis.com (Blocked)
 
